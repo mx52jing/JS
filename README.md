@@ -5,3 +5,5 @@
 - [常用vim命令](https://github.com/mx52jing/blog/issues/3)
 ### css
 - [走出em误区](https://github.com/mx52jing/blog/issues/4)
+### some practice
+- [01](https://github.com/mx52jing/blog/issues/5)
