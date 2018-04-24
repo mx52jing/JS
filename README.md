@@ -6,4 +6,4 @@
 ### css
 - [走出em误区](https://github.com/mx52jing/blog/issues/4)
 ### some practice
-- [01](https://github.com/mx52jing/blog/issues/5)
+- [01 实现一个函数 Time(t), 达到效果： 函数Time执行传入参数毫秒数（Time执行t秒）](https://github.com/mx52jing/blog/issues/5)
