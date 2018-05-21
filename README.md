@@ -4,7 +4,7 @@
 - [继承](https://github.com/mx52jing/study/issues/2)
 
 ### 小程序
-- [小程序中某些问题(https://github.com/mx52jing/blog/issues/7)
+- [小程序中某些问题](https://github.com/mx52jing/blog/issues/7)
 
 ### 编辑器
 
