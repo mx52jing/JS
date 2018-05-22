@@ -2,7 +2,7 @@
 
 - [属性类型](https://github.com/mx52jing/study/issues/1)
 - [继承](https://github.com/mx52jing/study/issues/2)
-
+- [原型和原型链](https://github.com/mx52jing/blog/issues/8)
 ### 小程序
 - [小程序体验](https://github.com/mx52jing/blog/issues/7)
 
