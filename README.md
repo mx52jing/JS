@@ -16,5 +16,5 @@
 
 ### some practice
 
-- [01 实现一个函数 Time(t), 达到效果： 函数Time执行传入参数毫秒数（Time执行t秒）](https://github.com/mx52jing/blog/issues/5)
-- [02 s实现一个函数fn,fn()打印a,fn()()打印b,fn()()()打印c](https://github.com/mx52jing/blog/issues/6)
+- [01 实现一个函数 Time(t), 实现效果： 函数Time执行传入参数毫秒数（Time执行t秒）](https://github.com/mx52jing/blog/issues/5)
+- [02 实现一个函数fn,fn()打印a,fn()()打印b,fn()()()打印c](https://github.com/mx52jing/blog/issues/6)
