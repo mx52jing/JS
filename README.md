@@ -4,6 +4,7 @@
 - [继承](https://github.com/mx52jing/study/issues/2)
 - [原型和原型链](https://github.com/mx52jing/blog/issues/8)
 - [location](https://github.com/mx52jing/blog/issues/9)
+- [navigator](https://github.com/mx52jing/blog/issues/10)
 ### 小程序
 - [小程序体验](https://github.com/mx52jing/blog/issues/7)
 
